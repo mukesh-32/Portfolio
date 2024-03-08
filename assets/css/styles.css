@@ -8,12 +8,7 @@
 4.  HOME
 5.  SERVICE
 6.  ABOUT
-7.  TESTIMONIAL
-8.  FAQ
 9.  QUATE
-10. SUBSCRIBE
-11. PRICING
-12. BLOG
 13. FOOTER
 14. COPYRIGHT
 
@@ -266,8 +261,8 @@ a {
   padding: 20px 0; }
   
   section {
-    //padding: 60px 0;
-    //padding-bottom: 30px;
+    padding: 60px 0;
+    padding-bottom: 30px;
 }
 
 /**
@@ -1385,22 +1380,6 @@ body {
        MH VIDEO
     ==============
 */
-.mh-video .each-video {
-  padding-top: 30px;
-  padding-bottom: 30px; }
-  .mh-video .each-video p {
-    margin-top: 20px;
-    padding: 0 160px; }
-  .mh-video .each-video .fa {
-    background-color: #fff;
-    border-radius: 50%;
-    color: black;
-    height: 40px;
-    width: 40px;
-    margin-top: 20px;
-    line-height: 40px;
-    text-align: center; }
-
 /*
     ==============
        QUATES
@@ -1426,20 +1405,6 @@ body {
        VIDEO
     ==============
 */
-.mh-video .each-video {
-  padding: 30px 0; }
-  .mh-video .each-video p {
-    margin-top: 20px; }
-  .mh-video .each-video .fa {
-    background-color: #fff;
-    border-radius: 50%;
-    color: black;
-    height: 40px;
-    width: 40px;
-    margin-top: 20px;
-    line-height: 40px;
-    text-align: center; }
-
 /*
     =================
        TESTIMONIAL
